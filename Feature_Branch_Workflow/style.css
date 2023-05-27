@@ -1,0 +1,21 @@
+body {
+<<<<<<< HEAD
+    background-image: url('/img/background.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+=======
+  font-family: Calibri, "Segoe UI", Arial, sans-serif;
+}
+h1 {
+  text-align: center;
+}
+.container{
+  margin: 0 auto;
+  width: 800px;
+  text-align: center;
+}
+.clickable {
+  cursor:hand;
+}
+>>>>>>> 7374179/COMP_2800_Feature_Branch_Workflow_BBY25/main
